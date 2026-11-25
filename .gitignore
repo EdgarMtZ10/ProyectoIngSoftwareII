@@ -1,0 +1,16 @@
+config.properties
+
+# Archivos compilados de Java
+bin/
+*.class
+
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+
+# Archivos generados 
+Resumen_Prueba.pdf
+Resumen_Prueba.csv

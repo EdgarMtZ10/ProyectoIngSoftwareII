@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/sistema_factibilidad?useUnicode=true&characterEncoding=utf8&serverTimezone=America/Costa_Rica&allowPublicKeyRetrieval=true&useSSL=false
+db.usuario=root
+db.contrasena=AQUI_CONTRASENA_MYSQL
